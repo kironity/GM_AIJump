@@ -12,6 +12,7 @@ class AAIJumpGameMode : public AGameModeBase
 	GENERATED_BODY()
 
 public:
+
 	AAIJumpGameMode();
 };
 
